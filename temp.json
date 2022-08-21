@@ -1,7 +1,15 @@
 {
-    "Last name":"eswar",
-    "First name":"siddu",
-    "age":23,
-    "role":"developer",
-    "test":"test"
+    "version":1,
+    "Require-update":"no",
+    "Maditory-Update":"no",
+    "data":{
+        "HomeScreen":{
+            "Question":"Do you need First-Aid",
+            "options":
+            {
+                "0":"yes",
+                "1":"no"
+            }
+        }
+    }
 }
