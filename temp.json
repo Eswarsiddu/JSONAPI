@@ -1,4 +1,6 @@
 {
     "Last name":"eswar",
-    "First name":"siddu"
+    "First name":"siddu",
+    "age":23,
+    "role":"developer"
 }
