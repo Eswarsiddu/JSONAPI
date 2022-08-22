@@ -10,6 +10,10 @@
                 "0":"yes",
                 "1":"no"
             }
+        },
+        "BodyParts":{
+            "head":"headache",
+            "nose":"cold"
         }
     }
 }
