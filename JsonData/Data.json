@@ -1,11 +1,9 @@
 {
-    "home":{
-        "question":"Do you need first aid",
-        "options":{
-            "yes":{
-                "head":"headache"
-            },
-            "no":""
-        }
+    "question":"Do you need first aid",
+    "options":{
+        "yes":{
+            "head":"headache"
+        },
+        "no":""
     }
 }
