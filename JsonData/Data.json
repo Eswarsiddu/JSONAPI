@@ -2,10 +2,18 @@
     "question":"Do you need first aid",
     "options":{
         "yes":{
-            "head":"headache",
-            "skin":"rashes",
-            "eye":"red",
-            "ears":"deaf"
+            "head":{
+                "headache":"sol",
+                "synus":"sol"
+            },
+            "skin":{
+                "rashes":"sol",
+                "pimples":"sol"
+            },
+            "eye":{
+                "sight":"sol",
+                "burning":"sol"
+            }
         },
         "no":"empty"
     }
