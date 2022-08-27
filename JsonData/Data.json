@@ -3,16 +3,70 @@
     "options":{
         "yes":{
             "head":{
-                "headache":"sol",
-                "synus":"sol"
+                "headache":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                },
+                "synus":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                }
             },
             "skin":{
-                "rashes":"sol",
-                "pimples":"sol"
+                "rashes":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                },
+                "pimples":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                }
             },
             "eye":{
-                "sight":"sol",
-                "burning":"sol"
+                "sight":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                },
+                "burning":{
+                    "medicines":{
+                        "0":"medicine 1",
+                        "1":"medicine 2"
+                    },
+                    "doctor":{
+                        "0":"consult condition 1",
+                        "1":"consult condition 2"
+                    }
+                }
             }
         },
         "no":"empty"
