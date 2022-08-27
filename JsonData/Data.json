@@ -2,7 +2,8 @@
     "question":"Do you need first aid",
     "options":{
         "yes":{
-            "head":"headache"
+            "head":"headache",
+            "skin":"rashes"
         },
         "no":""
     }
