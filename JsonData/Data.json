@@ -1,12 +1,1 @@
-{
-    "question":"Do you need first aid",
-    "options":{
-        "yes":{
-            "head":"headache",
-            "skin":"rashes",
-            "eye":"red",
-            "ears":"deaf"
-        },
-        "no":"empty"
-    }
-}
+{"question":"Do you need first aid","options":{"yes":{"head":"headache","skin":"rashes","eye":"red","ears":"deaf"},"no":"empty"}}
