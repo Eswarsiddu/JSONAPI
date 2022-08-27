@@ -3,7 +3,9 @@
     "options":{
         "yes":{
             "head":"headache",
-            "skin":"rashes"
+            "skin":"rashes",
+            "eye":"red",
+            "ears":"deaf"
         },
         "no":"empty"
     }
