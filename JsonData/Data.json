@@ -11,6 +11,10 @@
                     "doctor":{
                         "0":"consult condition 1",
                         "1":"consult condition 2"
+                    },
+                    "images":{
+                        "0":"head_headache_0",
+                        "1":"head_headache_1"
                     }
                 },
                 "synus":{
@@ -21,6 +25,9 @@
                     "doctor":{
                         "0":"consult condition 1",
                         "1":"consult condition 2"
+                    },
+                    "images":{
+                        "0":"head_synus_0"
                     }
                 }
             },
