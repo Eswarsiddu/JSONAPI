@@ -5,74 +5,20 @@
             "head":{
                 "headache":{
                     "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
+                        "data":{
+                            "0":"medicine 1",
+                            "1":"medicine 2"
+                        },
+                        "length":2
                     },
                     "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
+                        "data":{
+                            "0":"consult condition 1",
+                            "1":"consult condition 2"
+                        },
+                        "length":2
                     },
-                    "images":{
-                        "0":"head_headache_0",
-                        "1":"head_headache_1"
-                    }
-                },
-                "synus":{
-                    "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
-                    },
-                    "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
-                    },
-                    "images":{
-                        "0":"head_synus_0"
-                    }
-                }
-            },
-            "skin":{
-                "rashes":{
-                    "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
-                    },
-                    "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
-                    }
-                },
-                "pimples":{
-                    "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
-                    },
-                    "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
-                    }
-                }
-            },
-            "eye":{
-                "sight":{
-                    "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
-                    },
-                    "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
-                    }
-                },
-                "burning":{
-                    "medicines":{
-                        "0":"medicine 1",
-                        "1":"medicine 2"
-                    },
-                    "doctor":{
-                        "0":"consult condition 1",
-                        "1":"consult condition 2"
-                    }
+                    "images":2
                 }
             }
         },

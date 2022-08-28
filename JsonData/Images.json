@@ -1,0 +1,14 @@
+{
+    "head":{
+        "headache":{
+            "0":{
+                "version":1,
+                "link":"Images/background.jpg"
+            },
+            "1":{
+                "version":1,
+                "link":"Images/background.jpg"
+            }
+        }
+    }
+}
