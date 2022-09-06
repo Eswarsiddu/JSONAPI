@@ -8,6 +8,18 @@
             "1":{
                 "version":1,
                 "link":"Images/background.jpg"
+            },
+            "2":{
+                "version":1,
+                "link":"Images/background.jpg"
+            },
+            "3":{
+                "version":1,
+                "link":"Images/background.jpg"
+            },
+            "4":{
+                "version":1,
+                "link":"Images/background.jpg"
             }
         }
     }
