@@ -6,15 +6,15 @@
                 "headache":{
                     "medicines":{
                         "data":{
-                            "0":"medicine 1",
-                            "1":"medicine 2"
+                            "0":"medicine 1\nmed\nmed\nmed\nmed\nmed\nmed",
+                            "1":"medicine 2\nmed\nmed\nmed\nmed\nmed\nmed"
                         },
                         "length":2
                     },
                     "doctor":{
                         "data":{
-                            "0":"consult condition 1",
-                            "1":"consult condition 2"
+                            "0":"consult condition 1\nmed\nmed\nmed\nmed\nmed\nmed",
+                            "1":"consult condition 2\nmed\nmed\nmed\nmed\nmed\nmed"
                         },
                         "length":2
                     },
